@@ -12,3 +12,12 @@ All the article is made in R, the aim of this project was to reproduce in Python
 
 It's used the Jupyter Notebook environment, available by Anaconda. 
 
+
+REQUIREMENTS:
+numpy 
+seaborn 
+matplotlib
+pandas
+sklearn
+pyreadr
+
